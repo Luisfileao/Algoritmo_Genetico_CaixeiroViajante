@@ -1,4 +1,4 @@
-# Algoritimo_Genetico_CaixeiroViajante
+# Algoritmo_Genetico_CaixeiroViajante
 
 Documentação do algoritmo do Caixeiro Viajante
 Alunos: Luís Filipe Rabelo Leão de Oliveira, Mateus Dos Santos Coelho
